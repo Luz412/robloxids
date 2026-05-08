@@ -1,0 +1,34 @@
+{
+  "Customizacao": {
+    "Generos": ["Masculino", "Feminino"],
+    "Chapeus": [111, 222],
+    "Cabelos": [333],
+    "Rostos": [444],
+    "Camisas": [555],
+    "Calcas": [666],
+    "Acessorios": {
+      "Face": [777],
+      "Pescoco": [],
+      "Ombros": [],
+      "Frente": [],
+      "Costas": [],
+      "Cintura": []
+    },
+    "CoresDePele": ["#FFCC99"]
+  },
+  "SistemaDeIDs": {
+    "Banidos": [5, 12],
+    "Admins": {
+      "ID_1": "Owner"
+    }
+  },
+  "Vips": {
+    "CargosPermitidos": [
+      "Embaixador Redentor",
+      "Vip Ruby",
+      "Vip Ouro",
+      "Vip Prata"
+    ],
+    "KeysValidas": {}
+  }
+}
