@@ -28,5 +28,15 @@
     "lastSeen": "2026-05-15T19:04:06.137Z",
     "lastJoinGameTime": "15/05/2026 16:03:58",
     "visits": 1
+  },
+  "4": {
+    "identityId": "4",
+    "userId": -2,
+    "nick": "Player2",
+    "displayName": "Player2",
+    "firstSeen": "2026-05-15T19:04:07.316Z",
+    "lastSeen": "2026-05-15T19:04:07.316Z",
+    "lastJoinGameTime": "15/05/2026 16:03:58",
+    "visits": 1
   }
 }
